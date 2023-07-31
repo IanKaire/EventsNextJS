@@ -4,7 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
-
+*.txt
 # testing
 /coverage
 
@@ -18,6 +18,8 @@
 # misc
 .DS_Store
 *.pem
+*.txt
+/screenshots
 
 # debug
 npm-debug.log*
